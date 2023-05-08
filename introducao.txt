@@ -1,0 +1,5 @@
+Resumo Git-GitHub:
+Git: git é um controle de versões de arquivos, com ele podemos desenvolver projetos colaborativos
+Podemos: registrar e recuperar arquivos.
+
+GitHub: Serviço para hospedar projetos Git. Serve para criar uma networking entre programadores e também como portfólio

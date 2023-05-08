@@ -1,0 +1,1 @@
+São ramos do seu projeto, servindo para desenvolver features isoladas, sem necessariamente usar primeiramente o arquivo master(principal)

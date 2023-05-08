@@ -1,0 +1,11 @@
+git init:  cria um novo repositório
+git add:  adiciona as alterações nos arquivos e coloca ele no stage
+git commit -m '':  salva as alterações escritas no git add
+git status : mostra o status do repositório
+git log: mostra o histórico de commits realizados
+git diff: mostra o que mudou nos arquivos
+git branch: cria uma nova ramificação (branch) para trabalhar separadamente em um conjunto de alterações
+git push: envia o commit para o repositório remoto.
+git pull: obtém as alterações mais recentes do repositório remoto e as mescla com seu repositório local.
+git merge: Combina as alterações de uma ramificação (branch) para outra.
+git checkout: Alterna entre as ramificações (branch) existentes ou cria uma nova ramificação (branch) para trabalhar.
